@@ -1,5 +1,5 @@
 // pages/_app.js
-import '../styles/globals.css' // <--- 必须加上这一行！
+import '../styles/globals.css' // 
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
