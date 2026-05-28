@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 你可以在这里添加额外的自定义 CSS */
+body {
+  background-color: #f3f4f6; /* 设置一个浅灰色背景 */
+}
